@@ -4,8 +4,8 @@ Usage:
 ------
     css-cleaner.py [css_path] [html_path]
 
-    ***css_path*** - path to CSS file that should be optimized
-    ***html_path*** - path to HTML file, whitch will be used to analyze CSS usage
+    css_path - path to CSS file that should be optimized
+    html_path - path to HTML file, whitch will be used to analyze CSS usage
 
 After analysis, a new optimized CSS file will be generated in the same directory with original CSS file.
 
